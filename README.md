@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
