@@ -1,3 +1,6 @@
+## 👀 Visitors
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/andrewryu0409&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 ## Hi there 👋
 
 <!--
@@ -16,7 +19,16 @@ Here are some ideas to get you started:
 -->
 ## About me👋
 -Colorado State University
+
+### 📫 Find me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-id)
+
+
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+## 📊 GitHub Stats
+![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewryu0409&show_icons=true)
