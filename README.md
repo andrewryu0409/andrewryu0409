@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me👋
 -Colorado State University
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
